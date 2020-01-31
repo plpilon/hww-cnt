@@ -262,6 +262,9 @@ div.tip {
   -webkit-transform: rotate(45deg);
 }
 
+details {
+font-size: 16px;
+}
 
 /* Colors */
 
