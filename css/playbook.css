@@ -269,6 +269,11 @@ font-size: 16px;
 header .brand {
   padding-left: 0px;
 }
+
+.gcweb-menu {
+  padding-left: 30px;
+}
+
 /* Colors */
 
 .corner-ribbon.white{background: #f0f0f0; color: #555;}
